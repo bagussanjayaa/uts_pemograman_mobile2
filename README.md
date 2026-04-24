@@ -105,10 +105,10 @@ Saat aplikasi dibuka menampilkan logo dan halaman sambutan.
 - Header logo
 - Search buku
 - Tab filter:
--- Semua
--- Belum Dibaca
--- Sedang Dibaca
--- Sudah Dibaca
+- Semua
+  - Belum Dibaca
+  -  Sedang Dibaca
+  -   Sudah Dibaca
 - RecyclerView daftar buku
 - FAB tambah buku
 
