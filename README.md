@@ -6,7 +6,7 @@ NIM : 312410505
 
 Kelas : I241E
 
-## Menentukan Ide Aplikasi
+## 1. Menentukan Ide Aplikasi
 
 Pada tahap awal dilakukan brainstorming ide aplikasi yang akan dibuat.
 
@@ -22,7 +22,7 @@ Pada tahap awal dilakukan brainstorming ide aplikasi yang akan dibuat.
 - Statistik buku
 - Chat AI rekomendasi buku
 
-## Storyboard Alur Aplikasi
+## 2. Storyboard Alur Aplikasi
 
 Membuat storyboard untuk menggambarkan alur pengguna.
 
@@ -46,7 +46,7 @@ Membuat storyboard untuk menggambarkan alur pengguna.
 
 8. Statistik Buku
 
-## UI/UX Design
+## 3. UI/UX Design
 
 ### Wireframe Kasar(Figma)
 
@@ -79,7 +79,7 @@ Menentukan interaksi user:
 
 link youtube
 
-## Implementasi Android Studio
+## 4. Implementasi Android Studio
 
 ### Setup Project Android Studio
 
