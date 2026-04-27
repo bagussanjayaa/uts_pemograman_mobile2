@@ -26,7 +26,7 @@ Pada tahap awal dilakukan brainstorming ide aplikasi yang akan dibuat.
 
 Membuat storyboard untuk menggambarkan alur pengguna.
 
-!gambar
+
 
 ### Storyboard User Flow:
 
@@ -187,3 +187,4 @@ Menampilkan:
 - Sedang dibaca
 - Selesai dibaca
 
+[Klik ini untuk melihat video splash screen di youtube](https://youtube.com/shorts/8fxPQI7DCJc?si=QfEK7EENe7-1PbQF)
