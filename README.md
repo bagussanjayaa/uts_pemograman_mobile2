@@ -26,7 +26,7 @@ Pada tahap awal dilakukan brainstorming ide aplikasi yang akan dibuat.
 
 Membuat storyboard untuk menggambarkan alur pengguna.
 
-
+![foto](Pict/Sketsa.png)
 
 ### Storyboard User Flow:
 
@@ -50,7 +50,7 @@ Membuat storyboard untuk menggambarkan alur pengguna.
 
 ### Wireframe Kasar(Figma)
 
-!gambar
+![foto](Pict/Splash.png)
 
 Membuat rancangan kasar layout:
 
@@ -62,11 +62,11 @@ Halaman:
 - Chat AI
 - Statistik
 
-link figma
+[Klik ini untuk melihat Wireframe Figma](https://figma)
 
 ### Prototype UX
 
-!gambar
+![foto](Pict/Splash.png)
 
 Menentukan interaksi user:
 
@@ -77,7 +77,7 @@ Menentukan interaksi user:
 - Search buku
 - Statistik
 
-link youtube
+[Klik ini untuk melihat video Prototype di youtube](https://youtube.com/shorts/8fxPQI7DCJc?si=QfEK7EENe7-1PbQF)
 
 ## 4. Implementasi Android Studio
 
